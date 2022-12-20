@@ -6,6 +6,6 @@
   }
 .holder{
      display: flex;
-     /* flex-wrap: wrap; */
+     flex-wrap: wrap;
      justify-content: space-evenly;
  }
